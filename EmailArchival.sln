@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailArchival", "EmailArchival.csproj", "{814B2D5A-7338-4161-96FD-5611D084A030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{814B2D5A-7338-4161-96FD-5611D084A030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814B2D5A-7338-4161-96FD-5611D084A030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814B2D5A-7338-4161-96FD-5611D084A030}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{814B2D5A-7338-4161-96FD-5611D084A030}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{814B2D5A-7338-4161-96FD-5611D084A030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814B2D5A-7338-4161-96FD-5611D084A030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814B2D5A-7338-4161-96FD-5611D084A030}.Release|ARM64.ActiveCfg = Release|ARM64
+		{814B2D5A-7338-4161-96FD-5611D084A030}.Release|ARM64.Build.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {855A8FF6-B110-4335-A525-9FF361508AE2}
+	EndGlobalSection
+EndGlobal
