@@ -7,8 +7,8 @@
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>.</DockerfileContext>
     <Platforms>AnyCPU</Platforms>
-    <AssemblyVersion>1.0.9.23346</AssemblyVersion>
-    <FileVersion>1.0.9.23346</FileVersion>
+    <AssemblyVersion>1.0.10.24003</AssemblyVersion>
+    <FileVersion>1.0.10.24003</FileVersion>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="MailKit" Version="4.3.0" />
